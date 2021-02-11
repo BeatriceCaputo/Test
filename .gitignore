@@ -1,0 +1,5 @@
+*.exe
+.folder
+test.py
+testcopia.py
+.DS_Store
